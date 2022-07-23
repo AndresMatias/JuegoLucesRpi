@@ -1,6 +1,6 @@
-# Técnicas Digitales II - Proyecto
+# Proyecto
 
-Los siguientes ejercicios a desarrollar en los prácticos de laboratorio constituyen la columna vertebral del proyecto:
+Los siguientes ejercicios a desarrollar constituyen la columna vertebral del proyecto:
 
 1. Escribir una estructura switch-case en código assembly del ARM. Esto permite implementar un menú.
 
@@ -41,11 +41,3 @@ a. El valor inicial correspondiente a la velocidad de las secuencias deberá ing
 a. Generar una opción en el programa que permita establecer dos modos de trabajo: local y remoto. En modo local las secuencias de luces se ejecutarán en los leds que se encuentran en el hardware adicionado a la placa Raspberry donde se ejecuta el programa. En modo remoto las secuencias se ejecutarán sobre el hardware adicional colocado en otra Raspberry y conectada a la que ejecuta el programa mediante un cable serie RS-232. Se podrá usar el mismo programa para implementar esta opción en las dos Raspberry o realizar uno principal y otro secundario.
 
 a. Como opción genere una sección destinada a establecer las velocidades iniciales de las secuencias realizando el ajuste de los potenciómetros.
-
-## Condiciones de presentación 
-
-El proyecto deberá ser presentado en la fecha establecida oportunamente (no deberá en ningún caso superar la última semana de clase), y estará en condiciones de hacerlo todo programa que cumpla con las especificaciones mínimas enunciadas anteriormente. El trabajo se llevará a cabo en grupo de dos estudiantes, que al momento de la presentación deberán estar en condiciones de contestar indistintamente cualquier pregunta, demostrando en todo momento precisión, claridad conceptual de los temas involucrados en el proyecto, y contribución personal al programa. Hay que recordar que el proyecto es una evaluación con una modalidad diferente a la tradicional, pero evaluación al fin. Por lo tanto la nota es personal, pudiendo darse el caso eventualmente de diferente notas entre los miembros de un mismo equipo, llegando incluso al aplazo de alguno de ellos. 
-
-Al proyecto se le podrán agregar toda clase de opciones que sean pertinentes con lo esbozado anteriormente y que significará una mejor evaluación. Estas características deberán ser claramente remarcadas en la presentación.
-
-Si por cualquier motivo no se presentara el proyecto en la fecha indicada, se deberá presentar antes del examen final como requisito de la parte práctica del mismo.
