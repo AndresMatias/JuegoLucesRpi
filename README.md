@@ -7,9 +7,6 @@
  * [Mapeo de memoria de entrada/salida](mapeo-entrada-salida.md)
  * [Configuración de la UART](config-uart.md)
 
-
-El material original se encuentra en [wiki de TDII](https://test1.ciii.frc.utn.edu.ar/TecnicasDigitalesII/WebHome/TrabajosPracticos/Practico_02).
-
 ## Links útiles
  * [Pinout de la Raspberry Pi](https://pinout.xyz/pinout/wiringpi#)
  * [Biblioteca Wiring Pi](http://wiringpi.com/)
