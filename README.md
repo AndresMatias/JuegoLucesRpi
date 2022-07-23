@@ -1,4 +1,4 @@
-# Práctico de Técnicas Digitales II (UTN-FRC)
+# Práctico Juegos de Luces
 
  * [Enunciado](enunciado-tp.md) 
  * [Ejemplo de proyecto en lenguale C y ensamblador](ejemplo-c-asm.md)
